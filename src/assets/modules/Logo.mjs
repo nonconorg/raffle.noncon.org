@@ -1,5 +1,5 @@
-export const View = ({ branding, root, logo }) =>
-  Link({ to: root, class: 'Logo' }, Img(logo || `/noncon2020-logo-light.png`))
+export const View = ({ branding, root }) =>
+  Link({ to: root, class: 'Logo' }, Img('/img/NFT-raffle-hero.jpg'))
 
 export const style = vars => ({
   float: 'none',

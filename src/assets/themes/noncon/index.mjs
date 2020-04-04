@@ -146,6 +146,10 @@ export default (v = {}) => {
       },
     },
 
+    'body .Hero .LogoWrapper .Logo': {
+      width: '100%',
+    },
+
     '.Footer': {
       fontSize: '1em',
       width: '100%',
