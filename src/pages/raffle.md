@@ -9,6 +9,9 @@ it will happen on this url:
 [https://raffle.noncon.org](https://raffle.noncon.org)
 that you are visiting now.
 
+## The raffle below is a simulation.
+### watch me develop.
+
 <Raffle state></Raffle>
 
 ### abstract
