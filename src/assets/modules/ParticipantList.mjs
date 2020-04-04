@@ -1,5 +1,5 @@
-export const View = (tokens = []) => {
+export const View = (tokens = [], prices = 6) => {
   return ul(
-    tokens.map(({ tok, id }) => li({ class: `Participant p-${id}` }, ['participant: ', tok])),
+    tokens.map(({ tok, id }, i) => li({ class: `Participant p-${id}` }, [i < prices && 'WINNER: ', tok])),
   )
 }
