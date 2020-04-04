@@ -1,0 +1,3 @@
+user-agent: *
+allow: /
+sitemap: https://raffle.noncon.org/sitemap.xml
