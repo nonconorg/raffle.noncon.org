@@ -9,6 +9,8 @@ it will happen on this url:
 [https://raffle.noncon.org](https://raffle.noncon.org)
 that you are visiting now.
 
+<Raffle state></Raffle>
+
 ### abstract
 
 * predefine a blocktime in the future.
