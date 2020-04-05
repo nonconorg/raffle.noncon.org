@@ -2,7 +2,7 @@
 
 <div>
 
-# raffle
+# NonCon 2020 Token Raffle
 
 The raffle began on April 4th 2020, around 00:00.
 
@@ -16,11 +16,6 @@ It will be ongoing until May 1st 2020, 00:00.
 
 Terms and conditions of the contest
 [terms](/terms/)
-
-### Documentation
-
-A more technical description for the raffle can be found in the
-[docs](/docs/)
 
 <Raffle state></Raffle>
 
