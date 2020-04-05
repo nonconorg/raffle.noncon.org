@@ -1,5 +1,4 @@
 export const View = ({ state }) => {
-  console.log(state)
   return div({ class: 'Raffle' }, [
     h1('raffle'),
     state.raffle &&
