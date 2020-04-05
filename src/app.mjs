@@ -52,7 +52,7 @@ export const state = {
         { to: 'https://parallele.at', text: 'parallele.at' },
         { to: 'https://bwb.is', text: 'bwb.is' },
         { to: 'https://tegg.io', text: 'tegg.io' },
-        { to: 'https://www.wu.ac.at/cryptoeconomics', text: 'wu.ac.at/cryptoeconomics'}
+        { to: 'https://www.wu.ac.at/cryptoeconomics', text: 'wu.ac.at/cryptoeconomics' },
       ],
     },
   },
