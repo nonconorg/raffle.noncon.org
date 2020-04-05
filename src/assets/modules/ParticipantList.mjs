@@ -3,7 +3,7 @@ export const View = ({tokens = [], wins}, children) => {
     tokens.map(({ tok, id }, i) => [
       i === 0 && children,
 
-      i === wins - 1 && [
+      i === wins && [
         li([h3('Sorry, all others, better luck next time.'), h4('Other participants:')]),
       ],
 

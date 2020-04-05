@@ -7,11 +7,12 @@
 This document is a draft and an rfc.
 
 We are very sorry for the possibly misleading wording in the mintbase nft token description,
-unfortunately, human error is an unintended sideeffect of too many things to do and not enought time.
+unfortunately, human error is an unintended sideeffect of too many things to do and not enough time.
 
-3 of our team sat together, and all of us were part of the communication finalizing creation of the nfts.
+3 of our team sat together,
+and all of us were part of the communication finalizing the creation of the nfts.
 
-None of us thought about immutability.
+All of us knew about immutabilty. None of us thought of it.
 
 ### Tokens
 
@@ -32,7 +33,7 @@ defined in this document, available on
 ### Timezones
 
 All times listed are in the timezone of Vienna, Europe, GMT+1 or GMT+2,
-depending on daylight savings time differences. Dates are hard.
+depending on daylight savings time. Dates are hard.
 
 This is called "Vienna Time" in the rest of the document.
 
