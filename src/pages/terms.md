@@ -6,34 +6,6 @@
 
 This document is a draft and an rfc.
 
-### Jurisdiction
-
-NONCON ORG understands that most jurisdictions will not accept the legal authority of this document.
-
-NONCON ORG is a virtual organization, composed of voluntarily participating individuals,
-we do not accept the legal authority of those jurisdictions,
-brought onto us by coercion, not choice.
-
-NONCON 2020 is a virtual event and association of vountarily participating individuals.
-It does not exist as a physical representation,
-and we consider it outside of any jurisdictions,
-which means that we, NONCON ORG, exist in our own virtual jurisdiction we just made up.
-
-In jurisdictions where any kind of purchase comes with consumer rights,
-the PARTICIPANTS forfeit their right to a trial period,
-their right to return, their right to any kind of refund,
-unless those rights are granted by the cryptographically signed contract
-both NONCON and the PARTICIPANTS signed cryptographically
-when they engaged in any kind of transaction with each other.
-
-If this forfeit of rights is legally impossible,
-both NONCON and the PARTICIPANTS agree
-that before any judgements regarding the specific clauses of this cryptographic contract are made,
-the general extend and applicability of coverage by the law of that jurisdiction has to be defined.
-
-This terms and condition are incomplete,
-any amendments will be in the spirit of the existing terms and conditions.
-
 ##### shame.
 
 We are very sorry for the possibly misleading wording in the mintbase nft token description,
