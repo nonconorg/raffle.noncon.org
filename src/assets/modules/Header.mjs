@@ -1,4 +1,4 @@
-export const View = ()=>{}/*(props = {}, children = []) => {
+export const View = () => {} /*(props = {}, children = []) => {
   CHECK_PROPS(props, propTypes, 'Header')
 
   const { logo, menu, logotext, ...state } = props
