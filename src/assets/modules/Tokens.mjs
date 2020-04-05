@@ -1,5 +1,5 @@
 export const View = () => [
-  h2('NFT Raffles'),
+  h2('NFT Raffle Tokens'),
 
   h3(Link({ to: '/terms/', text: 'Raffle ToS' })),
 
