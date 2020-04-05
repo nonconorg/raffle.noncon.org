@@ -4,13 +4,15 @@
 
 Welcome to the [noncon 2020](https://noncon.org/) raffle page.
 
-# raffle
+The whole noncon raffle, as well as this homepage, are very much a work in progress.
 
-the raffle will happen on sunday
-(or after that, as soon as we have implemented the functionality.).
+Things to do:
 
-it will happen on this url:
-[https://raffle.noncon.org](https://raffle.noncon.org)
-that you are visiting now.
+Watch the [raffle](/raffle/),
+read about the technical details on the [docs](/docs/) page,
+send us a [donation](/donation/), and, of course, [buy a nft token](/nft/).
+
+The Raffle page shows a simulation at the moment, it will get closer and closer to the real deal,
+at one point we will connect to blockchains and automate the processes.
 
 </div>
