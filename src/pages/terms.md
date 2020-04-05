@@ -6,8 +6,6 @@
 
 This document is a draft and an rfc.
 
-##### shame.
-
 We are very sorry for the possibly misleading wording in the mintbase nft token description,
 unfortunately, human error is an unintended sideeffect of too many things to do and not enought time.
 
