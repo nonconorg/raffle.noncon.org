@@ -1,14 +1,9 @@
 export const state = {
-  title: 'NonCon 2020',
-  description: ['Not a Conference.', ' Not a Conjob.', ' 3-5. April 2020, Interspace'],
+  title: 'NonCon 2020 Raffle',
+  description: ['Not a Conference.', ' Not a Conjob.', ' Just a Raffle.'],
   image: '/img/noncon2020-banner.jpg',
 
   menu: [],
-  menu: [
-    { to: '/', text: 'About' },
-    { to: '/raffle/', text: 'Raffle' },
-    { to: '/donate/', text: 'Donate' },
-  ],
 
   seo: {
     custom: [
@@ -20,7 +15,10 @@ export const state = {
 
   hero: {
     menu: [
+      { to: '/', text: 'About' },
       { to: '/raffle/', text: 'Raffle' },
+      { to: '/terms/', text: 'Terms' },
+      { to: '/docs/', text: 'Docs' },
       { to: '/donate/', text: 'Donate' },
     ],
   },
