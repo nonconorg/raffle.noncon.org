@@ -16,6 +16,7 @@ export const state = {
   hero: {
     menu: [
       { to: '/', text: 'About' },
+      { to: '/tokens/', text: 'Token' },
       { to: '/raffle/', text: 'Raffle' },
       { to: '/terms/', text: 'Terms' },
       { to: '/docs/', text: 'Docs' },
