@@ -54,9 +54,8 @@ are considered donations without expectation of any return,
 but we will return them if the token gets bought after that date and/or by accident,
 just contact us through any of our published [communication channels](https://noncon.org/#connect).
 
-Both the raffle provider "NOCNON ORG" and the raffle PARTICIPANTS agree,
-that this the tokens bought for this raffle are a cryptographically binding,
-immutable and permanent commitment to follow the terms
+Tokens bought for this raffle are cryptographically binding,
+immutable and permanent commitments to follow the terms
 defined in this document, available on
 [https://raffle.noncon.org/terms/](https://raffle.noncon.org/terms/).
 
