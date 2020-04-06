@@ -18,6 +18,10 @@ All of us knew about immutabilty. None of us thought of it.
 
 Bought NFT Tokens represent a chance to win, not a purchase.
 
+### Time restrictions
+
+Only NFT tokens bought 1 hour **before** May 1st 2020, 00:00, Vienna Time, can participate.
+
 ### Refundability
 
 Tokens bought **AFTER** May 1st 2020, 00:00, Vienna Time
@@ -38,10 +42,6 @@ depending on daylight savings time. Dates are hard.
 This is called "Vienna Time" in the rest of the document.
 
 Just look up "what time is it in vienna" in your favorite search engine.
-
-### Time restrictions
-
-Only NFT tokens bought 1 hour **before** May 1st 2020, 00:00, Vienna Time, can participate.
 
 Feel free to amend and pull request.
 

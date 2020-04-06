@@ -2,7 +2,7 @@ export const View = ({ state }) => {
   return div({ class: 'Raffle' }, [
     h1('raffle'),
     state.raffle &&
-      ParticipantList({ tokens: state.raffle.tokens.status, wins: state.raffle.wins.status }, [
+      Winners({ tokens: state.raffle.tokens.status, wins: state.raffle.wins.status }, [
         li([
           h3(
             Link({
@@ -20,7 +20,7 @@ export const View = ({ state }) => {
       ]),
 
     state.raffle &&
-      ParticipantList({ tokens: state.raffle.tokens.shift, wins: state.raffle.wins.shift }, [
+      Winners({ tokens: state.raffle.tokens.shift, wins: state.raffle.wins.shift }, [
         li([
           h3(
             Link({
@@ -37,6 +37,12 @@ export const View = ({ state }) => {
         ]),
         li(h3('Winners:')),
       ]),
+
+    state.raffle &&
+      ParticipantList({ tokens: state.raffle.tokens.status, wins: state.raffle.wins.status }),
+
+    state.raffle &&
+      ParticipantList({ tokens: state.raffle.tokens.shift, wins: state.raffle.wins.shift }),
   ])
 }
 
